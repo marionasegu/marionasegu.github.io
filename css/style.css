@@ -102,8 +102,8 @@ p { margin: 0 0 1em; }
 .sidebar > * { position: relative; }
 
 .avatar {
-  width: 6.5rem;
-  height: 6.5rem;
+  width: 9rem;
+  height: 9rem;
   border-radius: 50%;
   background: var(--ink);
   color: var(--bg);
